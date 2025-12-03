@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "pord": "cotcamera-prod",
+    "prod": "cotcamera-prod",
+    "default": "cotcamera-prod"
+  },
+  "targets": {},
+  "etags": {}
+}

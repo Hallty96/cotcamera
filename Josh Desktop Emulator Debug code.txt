@@ -1,0 +1,2 @@
+Josh Desktop Emulator Debug code for CotCamera:
+616fc92a-8666-49ef-8e72-7fb0538364da

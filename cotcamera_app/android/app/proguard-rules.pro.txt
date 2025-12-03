@@ -1,0 +1,4 @@
+# Keep ML Kit public APIs and internals used via reflection
+-keep class com.google.mlkit.** { *; }
+-keep class com.google.android.gms.internal.mlkit_** { *; }
+-dontwarn com.google.mlkit.**
